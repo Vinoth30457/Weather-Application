@@ -42,7 +42,7 @@ async function weatherApi() {
     iconEl.src = `${data.current.condition.icon}`;
     climateEl.innerText = `${data.current.condition.text}`;
     placeEl.innerText = `${data.location.name},${data.location.region}`;
-    tempEl.innerHTML = `${data.current.temp_c} <i class="fa-regular fa-circle"></i> &nbsp;C`;
+    tempEl.innerHTML = `${data.current.temp_c}<sup><i class="fa-regular fa-circle"></i></sup> &nbsp;C`;
     humidityEl.innerText = `${data.current.humidity}`;
     windEl.innerText = `${data.current.wind_kph}`;
   } catch (error) {
