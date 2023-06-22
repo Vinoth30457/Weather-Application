@@ -10,5 +10,5 @@ the challenge is to build out this Weather application using the function
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/Vinoth30457/tip-calculator.git)
-- Live Site URL: [Click here](https://tiny-meringue-f147dc.netlify.app)
+- Solution URL: [Click here](https://github.com/Vinoth30457/Weather-Application.git)
+- Live Site URL: [Click here](https://aquamarine-yeot-ad9d14.netlify.app)
